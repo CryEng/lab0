@@ -6,8 +6,13 @@ Welcome to repository 1
 
 The repo is updated
 
+Welcome to repository 2
+
+This is the new version of repository 1 
+
 Welcome to repository 1
 
 This repo is outdated
 
 Version end
+
